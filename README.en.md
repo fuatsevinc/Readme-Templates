@@ -1,44 +1,44 @@
 <div align="right" >
   <a href="./README.md">
-    <img src="./images/tr.png" alt="Türkce" width="60px" ></img>
+    <img src="./images/tr.png" alt="Türkce" width="30px" ></img>
   </a>
   <a href="./README.de.md">
-    <img src="./images/de.png" alt="Deutsch" width="60px" ></img>
+    <img src="./images/de.png" alt="Deutsch" width="30px" ></img>
   </a>
   <a href="./README.en.md">
-    <img src="./images/en.png" alt="English" width="90px" ></img>
+    <img src="./images/en.png" alt="English" width="45px" ></img>
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="./images/github.png" alt="Readme" />
+  <img src="./images/readme.png" width="30px" alt="Readme" />
   <br/>
-  <span>BU bir README şablon deposu</span>
+  <span>This is a README store</span>
 </div>
 
 --- 
 
 <br/>
 
-Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
-Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
+Ja, das haben Sie gerade gelesen: "ein README-Vorlagen-Repository".
+Darin werde ich eine Padronisierung aller Readmes meines Projekts aufbewahren.
 
-Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
+Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizieren.
 
 <br/>
 
 **Here you will find the following templates:**
 
-- [x] [In construction](./construction) - For those repos that doesn't have notthing yet <br/>
+- [x] [In construction](./construction) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
-- [x] [All-in-one](./all-in-one) - The readme for monorepos <br/>
+- [x] [Django Projesi](./construction) - Django Projeleri icin <br/>
 
-- [ ] [Mobile](./mobile) - A template for mobile apps <br/>
+- [x] [React Projesi](./all-in-one) - React projeleri icin <br/>
 
-- [ ] [Server](./server) - For APIs and stuff<br/>
+- [ ] [Bootsrap Projesi](./mobile) - Bootsrap Projeleri icin <br/>
 
-- [ ] [Web](./server) - To be used in frontend aplicattions <br/>
+- [ ] [Servisler](./server) - For APIs and stuff<br/>
 
 <br/>
 
