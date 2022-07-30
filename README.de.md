@@ -1,12 +1,12 @@
 <div align="right" >
-   <a href="./README.md">
+  <a href="./README.md">
     <img src="./images/tr.png" alt="Türkce" width="180px" ></img>
   </a>
   <a href="./README.de.md">
-    <img src="./images/tr.png" alt="Deutsch" width="180px" ></img>
+    <img src="./images/de.png" alt="Deutsch" width="180px" ></img>
   </a>
   <a href="./README.en.md">
-    <img src="./images/tr.png" alt="English" width="180px" ></img>
+    <img src="./images/en.png" alt="English" width="180px" ></img>
   </a>
 </div>
 <br/>
