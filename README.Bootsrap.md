@@ -1,12 +1,12 @@
 <div align="right" >
   <a href="./README.md">
-    <img src="./images/tr.png" alt="Türkce" width="30px" ></img>
+    <img src="./images/tr.png" alt="Türkce" width="45px" ></img>
   </a>
   <a href="./README.de.md">
     <img src="./images/de.png" alt="Deutsch" width="30px" ></img>
   </a>
   <a href="./README.en.md">
-    <img src="./images/en.png" alt="English" width="45px" ></img>
+    <img src="./images/en.png" alt="English" width="30px" ></img>
   </a>
 </div>
 <br/>
@@ -14,21 +14,21 @@
 <div align="center">
   <img src="./images/readme.png" width="30px" alt="Readme" />
   <br/>
-  <span>This is a README store</span>
+  <span>Bu bir README şablon deposu</span>
 </div>
 
 --- 
 
 <br/>
 
-Ja, das haben Sie gerade gelesen: "ein README-Vorlagen-Repository".
-Darin werde ich eine Padronisierung aller Readmes meines Projekts aufbewahren.
+Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
+Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
 
-Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizieren.
+Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
 
 <br/>
 
-**Here you will find the following templates:**
+**Burada aşağıdaki şablonları bulacaksınız:**
 
 - [x] [In construction](./README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
@@ -39,6 +39,8 @@ Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizie
 - [x] [Bootsrap Projesi](./README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
 
 - [x] [Servisler](./README.Api.md) - For APIs and stuff<br/>
+
+
 
 <br/>
 
@@ -94,12 +96,13 @@ Simple as that.
 
 <br/>
 
-## :handshake: Contributions
+## :handshake: Katkılar
+readme
 <br/>
 
-If you liked this repository and would like to contribute, just open a pull request and i'll happilly review it :white_heart:
+Bu depoyu beğendiyseniz ve katkıda bulunmak istiyorsanız, sadece bir çekme isteği açın, memnuniyetle inceleyeceğim   
 
-And if you have any suggestion, just let me know :)
+Ve herhangi bir öneriniz varsa, bana bildirin :)
 
 <br/>
 <div align='center'>

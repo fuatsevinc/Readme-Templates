@@ -30,16 +30,15 @@ Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyi
 
 **Burada aşağıdaki şablonları bulacaksınız:**
 
-- [x] [In construction](./construction) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
+- [x] [In construction](./README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
-- [x] [Django Projesi](./construction) - Django Projeleri icin <br/>
+- [x] [Django Projesi](./README.Django.md) - Django Projeleri icin <br/>
 
-- [x] [React Projesi](./all-in-one) - React projeleri icin <br/>
+- [x] [React Projesi](./README.React.md) - React projeleri icin <br/>
 
-- [ ] [Bootsrap Projesi](./mobile) - Bootsrap Projeleri icin <br/>
+- [x] [Bootsrap Projesi](./README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
 
-- [ ] [Servisler](./server) - For APIs and stuff<br/>
-
+- [x] [Servisler](./README.Api.md) - For APIs and stuff<br/>
 
 
 <br/>
