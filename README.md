@@ -1,6 +1,12 @@
 <div align="right" >
   <a href="./README.pt.md">
-    <img src="./.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
+    <img src="./.github/lg-button-pt.png" alt="Türkce" width="180px" ></img>
+  </a>
+  <a href="./README.pt.md">
+    <img src="./.github/lg-button-pt.png" alt="Deutsch" width="180px" ></img>
+  </a>
+  <a href="./README.pt.md">
+    <img src="./.github/lg-button-pt.png" alt="English" width="180px" ></img>
   </a>
 </div>
 <br/>
