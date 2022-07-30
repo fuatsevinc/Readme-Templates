@@ -1,30 +1,30 @@
 <div align="right" >
   <a href="./README.md">
-    <img src="./images/tr.png" alt="Türkce" width="180px" ></img>
+    <img src="./images/tr.png" alt="Türkce" width="90px" ></img>
   </a>
   <a href="./README.de.md">
-    <img src="./images/de.png" alt="Deutsch" width="180px" ></img>
+    <img src="./images/de.png" alt="Deutsch" width="60px" ></img>
   </a>
   <a href="./README.en.md">
-    <img src="./images/use.png" alt="English" width="180px" ></img>
+    <img src="./images/en.png" alt="English" width="60px" ></img>
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="./.github/readme.png" alt="Readme" />
+  <img src="./images/github.png" alt="Readme" />
   <br/>
-  <span>A readme template repository</span>
+  <span>BU bir README şablon deposu</span>
 </div>
 
 --- 
 
 <br/>
 
-Yeah, this is what you just read: "a readme-template repository".
-In this, i'll keep a padronization of all my project's readmes.
+Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
+Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
 
-Feel free to copy them and modify for your own purposes
+Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
 
 <br/>
 
