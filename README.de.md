@@ -1,12 +1,12 @@
 <div align="right" >
    <a href="./README.md">
-    <img src="./.github/lg-button-en.png" alt="Türkce" ></img>
+    <img src="./images/tr.png" alt="Türkce" width="180px" ></img>
   </a>
-   <a href="./README.md">
-    <img src="./.github/lg-button-en.png" alt="Deutsch" ></img>
+  <a href="./README.de.md">
+    <img src="./images/tr.png" alt="Deutsch" width="180px" ></img>
   </a>
-  <a href="./README.md">
-    <img src="./.github/lg-button-en.png" alt="English" ></img>
+  <a href="./README.en.md">
+    <img src="./images/tr.png" alt="English" width="180px" ></img>
   </a>
 </div>
 <br/>
