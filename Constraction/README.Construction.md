@@ -1,9 +1,9 @@
 <div align="right" >
   <a href="./README.md">
-    <img src="./images/tr.png" alt="Türkce" width="30px" ></img>
+    <img src="./images/tr.png" alt="Türkce" width="45px" ></img>
   </a>
   <a href="./README.de.md">
-    <img src="./images/de.png" alt="Deutsch" width="45px" ></img>
+    <img src="./images/de.png" alt="Deutsch" width="30px" ></img>
   </a>
   <a href="./README.en.md">
     <img src="./images/en.png" alt="English" width="30px" ></img>
@@ -14,31 +14,33 @@
 <div align="center">
   <img src="./images/readme.png" width="30px" alt="Readme" />
   <br/>
-  <span>Dies ist ein README-Speicher</span>
+  <span>Bu bir README şablon deposu</span>
 </div>
 
 --- 
 
 <br/>
 
-Ja, das haben Sie gerade gelesen: "ein README-Vorlagen-Repository".
-Darin werde ich eine Padronisierung aller Readmes meines Projekts aufbewahren.
+Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
+Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
 
-Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizieren.
+Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
 
 <br/>
 
-**Here you will find the following templates:**
+**Burada aşağıdaki şablonları bulacaksınız:**
 
-- [x] [In construction](./Construction/README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
+- [x] [In construction](./README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
-- [x] [Django Projesi](./Django/README.Django.md) - Django Projeleri icin <br/>
+- [x] [Django Projesi](./README.Django.md) - Django Projeleri icin <br/>
 
-- [x] [React Projesi](./React/README.React.md) - React projeleri icin <br/>
+- [x] [React Projesi](./README.React.md) - React projeleri icin <br/>
 
-- [x] [Bootsrap Projesi](./Bootsrap/README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
+- [x] [Bootsrap Projesi](./README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
 
-- [x] [Servisler](./Api/README.Api.md) - For APIs and stuff<br/>
+- [x] [Servisler](./README.Api.md) - For APIs and stuff<br/>
+
+
 
 <br/>
 
@@ -94,16 +96,17 @@ Simple as that.
 
 <br/>
 
-## :handshake: Contributions
+## :handshake: Katkılar
+readme
 <br/>
 
-If you liked this repository and would like to contribute, just open a pull request and i'll happilly review it :white_heart:
+Bu depoyu beğendiyseniz ve katkıda bulunmak istiyorsanız, sadece bir çekme isteği açın, memnuniyetle inceleyeceğim   
 
-And if you have any suggestion, just let me know :)
+Ve herhangi bir öneriniz varsa, bana bildirin :)
 
 <br/>
 <div align='center'>
-  
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>

@@ -30,15 +30,15 @@ Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizie
 
 **Here you will find the following templates:**
 
-- [x] [In construction](./README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
+- [x] [In construction](./Construction/README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
-- [x] [Django Projesi](./README.Django.md) - Django Projeleri icin <br/>
+- [x] [Django Projesi](./Django/README.Django.md) - Django Projeleri icin <br/>
 
-- [x] [React Projesi](./README.React.md) - React projeleri icin <br/>
+- [x] [React Projesi](./React/README.React.md) - React projeleri icin <br/>
 
-- [x] [Bootsrap Projesi](./README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
+- [x] [Bootsrap Projesi](./Bootsrap/README.Bootsrap.md) - Bootsrap Projeleri icin <br/>
 
-- [x] [Servisler](./README.Api.md) - For APIs and stuff<br/>
+- [x] [Servisler](./Api/README.Api.md) - For APIs and stuff<br/>
 
 <br/>
 
