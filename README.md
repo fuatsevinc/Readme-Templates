@@ -17,7 +17,7 @@
   <span>Bu bir README şablon deposu</span>
 </div>
 
---- 
+
 
 <br/>
 
@@ -51,7 +51,7 @@ Pekala size bir hikaye anlatayım:
 
 ## :Düşündüm: README'lerimi Türkce mi veya Almanca mi yoksa İngilizce mi yapmalıyım?
 <br/>
-
+<div>
 Suan Almanyada yasiyor ve Burada Calisiyorum.
 <br/>
 Hertürlü yazilim projesinde Dökümantasyonun cok önemli olduguna inaniyorum.
@@ -71,7 +71,7 @@ Bu arastirma sürecinde bircok Github projesinin README dosyasinin ya olmadigi y
  GitHub da yaptigim arama sonuclarindan sonra kendime örnek alabilecegim standart bir REPO bulamadim. 
  <br/>
  Belkide vardir cok iyileri Henüz Karsilasmadim.
-
+</div>
 
 <br/>
 
