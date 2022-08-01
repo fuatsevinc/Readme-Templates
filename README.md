@@ -11,20 +11,17 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="./images/readme.png" width="30px" alt="Readme" />
-  <br/>
-  <span>Bu bir README şablon deposu</span>
-</div>
+## Burasini bir README hazir şablon deposu olarak kullanabilirsiniz.
+
 
 
 
 <br/>
 
 Merhaba, Burada yaopmak istedigim: "Bir README şablon deposu olusturmaktir".
-Buradaki, tüm projemin readme'lerini Hazir birer Sablonunu tutacağım.
+Buradaki, tüm projemin README.md 'lerinin Hazir birer Sablonunu tutacağım.
 
-Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
+Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin.
 
 <br/>
 
