@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-## Burasini bir README hazir şablon deposu olarak kullanabilirsiniz.
+## :v: Burasini bir README hazir şablon deposu olarak kullanabilirsiniz.
 
 
 
@@ -46,7 +46,7 @@ Pekala size bir hikaye anlatayım:
 
 <br/>
 
-## :Düşündüm: README'lerimi Türkce mi veya Almanca mi yoksa İngilizce mi yapmalıyım?
+## :thinking: README'lerimi Türkce mi veya Almanca mi yoksa İngilizce mi yapmalıyım?
 <br/>
 <div>
 Suan Almanyada yasiyor ve Burada Calisiyorum.
@@ -74,7 +74,7 @@ Bu arastirma sürecinde bircok Github projesinin README dosyasinin ya olmadigi y
 
 
 
-## Katkılar
+## :v: Katkılar
 
 
 <br/>
