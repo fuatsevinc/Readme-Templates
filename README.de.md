@@ -42,7 +42,29 @@ Fühlen Sie sich frei, sie zu kopieren und für Ihre eigenen Zwecke zu modifizie
 
 <br/>
 
+Natürlich.. Sie fragen sich vielleicht warum Readme in 3 Sprachen (Türkisch, Deutsch, Englisch).
 
+Nun, lassen Sie mich Ihnen eine Geschichte erzählen:
+
+
+Ich dachte: Soll ich meine READMEs auf Türkisch oder Deutsch oder Englisch machen?
+
+Jetzt lebe ich in Deutschland und arbeite hier.
+Ich glaube, dass Dokumentation in jedem Softwareprojekt sehr wichtig ist.
+Ich bin immer der Meinung, dass jedes Projekt für alle lesbar und entwicklungsfähig sein sollte.
+Aus diesem Grund lese, profitiere und nutze ich viele verschiedene Quellen als Open Source und bin sehr zufrieden damit.
+Ich halte es für zwingend erforderlich, dass alle Arten von Projekten erklärt werden und die ersten (Setup-) Einstellungen in der Readme vorgenommen werden können.
+Als jemand, der mit 36 ​​Jahren mit Software begonnen hat, untersuche ich viele Projekte auf Github und versuche, mich zu verbessern.
+Während dieses Rechercheprozesses wurde mir klar, dass viele Github-Projekte entweder keine README-Dateien haben oder zu weit von ihrem Ziel entfernt sind.
+Aus diesem Grund habe ich mich entschieden, fertige README-Vorlagen für diejenigen zu erstellen, die nach meinen eigenen Projekten neu in der Software sind.
+Nach Suchergebnissen auf GitHub konnte ich kein Standard-REPO finden, das ich als Beispiel nehmen könnte.
+Vielleicht gibt es einige sehr gute, die ich noch nicht getroffen habe.
+
+Beiträge
+
+Wenn Ihnen dieses Repository gefällt und Sie etwas beitragen möchten, öffnen Sie einfach einen Pull-Request und ich werde es gerne überprüfen
+
+Und wenn ihr Vorschläge habt, lasst es mich wissen :)
 
 <br/>
 <div align='center'>
