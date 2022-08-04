@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="./images/readme.png" width="30px" alt="Readme" />
+ 
   <br/>
   <span>This is a README store</span>
 </div>
