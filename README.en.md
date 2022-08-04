@@ -48,51 +48,33 @@ Well.. if you're still here, let me tell ya a story:
 
 <br/>
 
-## :thinking: Should I make my READMEs in Portuguese or English?
+## :v: Of course.. You may ask why Readme in 3 languages ​​(Turkish, German, English) ?
 <br/>
 
-Even in the beggining of my journey doing READMEs, I was uncomfortable with this question. 
-Well.. I live in Brazil and, even though some of us can comunicate in English very easilly, there is a huge percentage of us that can't.
+Of course.. You may ask why Readme in 3 languages ​​(Turkish, German, English).
 
-Still, when making this question above, i've always got the **same answer**, almost instantly: 
-
-> *"YOU SHOULD ALWAYS WRITE READMEs IN ENGLISH, SO EVERYONE WILL UNDERSTAND".*
->
-> -- Comunity
+Well, let me tell you a story:
 
 
-As you can see, I wasn't convinced.
+### I thought: Should I make my READMEs in Turkish or German or English?
 
-So, the only way was to do.. both.
+Now I live in Germany and I work here.
+I believe that Documentation is very important in any software project.
+I always believe that Every Project should be readable and developed by Everyone.
+For this reason, I read, benefit from and use many different sources as open source and I am very happy with it.
+I think it is mandatory for all kinds of projects to be explained and the initial (setup) settings can be made in the Readme.
+As someone who started software at the age of 36, I examine many projects on Github and try to improve myself.
+During this research process, I realized that many Github projects either do not have README files or are too far from their target.
+For this reason, I decided to create Ready-made README templates for those who are new to the software after my own projects.
+After searching results on GitHub, I couldn't find a standard REPO that I could take as an example.
+Maybe there are some very good ones I haven't met yet.
 
-<br/>
+Contributions
 
-## :v: My answer is: Do both
-<br/>
-
-Considering github does not have any functionallity known by me (until this moment) as a "multi language support" or anything like that, I decided to use in this repo a known workaround that links another README file with the desired language.
-
-If you notice, there is a "button" on the left-top of this file, like this:
-  
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
-
-```
-# you can do that this way:
-
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
-
-# or using an img tag in HTML
-
-<a href="./README.pt.md">
-  <img src="./.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
-</a>
-```
-
-I've put this on every README file, which leads you to a "README.\< abreviation-of-choosen-language \>.md" (in this case, brasilian portuguese)
-
-Simple as that.
 
 <br/>
+
+
 
 ## :handshake: Contributions
 <br/>
