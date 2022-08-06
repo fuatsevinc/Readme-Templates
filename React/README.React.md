@@ -10,102 +10,77 @@
   </a>
 </div>
 <br/>
+# Getting Started with Create React App
 
-<div align="center">
-  <img src="./images/readme.png" width="30px" alt="Readme" />
-  <br/>
-  <span>Bu bir README şablon deposu</span>
-</div>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
---- 
+## Available Scripts
 
-<br/>
+In the project directory, you can run:
 
-Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
-Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
+### `npm start`
 
-Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<br/>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-**Burada aşağıdaki şablonları bulacaksınız:**
+### `npm test`
 
-- [x] [In construction](./construction) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- [x] [Django Projesi](./construction) - Django Projeleri icin <br/>
+### `npm run build`
 
-- [x] [React Projesi](./all-in-one) - React projeleri icin <br/>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- [ ] [Bootsrap Projesi](./mobile) - Bootsrap Projeleri icin <br/>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- [ ] [Servisler](./server) - For APIs and stuff<br/>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<br/>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Okay.. But *"why a multi-languaged readme"*?, you may ask.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Well.. if you're still here, let me tell ya a story:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-<br/>
+## Learn More
 
-## :thinking: Should I make my READMEs in Portuguese or English?
-<br/>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Even in the beggining of my journey doing READMEs, I was uncomfortable with this question. 
-Well.. I live in Brazil and, even though some of us can comunicate in English very easilly, there is a huge percentage of us that can't.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Still, when making this question above, i've always got the **same answer**, almost instantly: 
+### Code Splitting
 
-> *"YOU SHOULD ALWAYS WRITE READMEs IN ENGLISH, SO EVERYONE WILL UNDERSTAND".*
->
-> -- Comunity
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-As you can see, I wasn't convinced.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-So, the only way was to do.. both.
+### Making a Progressive Web App
 
-<br/>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## :v: My answer is: Do both
-<br/>
+### Advanced Configuration
 
-Considering github does not have any functionallity known by me (until this moment) as a "multi language support" or anything like that, I decided to use in this repo a known workaround that links another README file with the desired language.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-If you notice, there is a "button" on the left-top of this file, like this:
-  
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
+### Deployment
 
-```
-# you can do that this way:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
+### `npm run build` fails to minify
 
-# or using an img tag in HTML
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<a href="./README.pt.md">
-  <img src="./.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
-</a>
-```
-
-I've put this on every README file, which leads you to a "README.\< abreviation-of-choosen-language \>.md" (in this case, brasilian portuguese)
-
-Simple as that.
-
-<br/>
-
-## :handshake: Katkılar
-readme
-<br/>
-
-Bu depoyu beğendiyseniz ve katkıda bulunmak istiyorsanız, sadece bir çekme isteği açın, memnuniyetle inceleyeceğim   
-
-Ve herhangi bir öneriniz varsa, bana bildirin :)
-
-<br/>
-<div align='center'>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
@@ -120,3 +95,4 @@ Ve herhangi bir öneriniz varsa, bana bildirin :)
 </p>
 
 </div>
+](https://github.com/Sadullah-TANRIKULU/myfire-blog-app.git)
