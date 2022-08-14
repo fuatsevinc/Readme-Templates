@@ -27,7 +27,7 @@ Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyi
 
 **Burada aşağıdaki şablonları bulacaksınız:**
 
-- [x] [In construction](./Construction/README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
+- [x] [In construction](./Constraction/README.Construction.md) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
 
 - [x] [Django Projesi](./Django/README.Django.md) - Django Projeleri icin <br/>
 
