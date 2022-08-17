@@ -19,7 +19,7 @@
 <br/>
 
 Merhaba, Burada yaopmak istedigim: "Bir README şablon deposu olusturmaktir".
-Buradaki, tüm projemin README.md 'lerinin Hazir birer Sablonunu tutacağım.
+Burada Farkli dillerde Kütüphalerde yada Cercevelerde Hazirlanacak projeler icin README.md 'lerinin Hazir birer Sablonunu tutacağım.
 
 Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin.
 
