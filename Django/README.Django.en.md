@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  <span>This is a README template repository</span>
+  <span>This is a DJANGO README template repository</span>
 </div>
 <!-- Please update value in the {}  -->
 
