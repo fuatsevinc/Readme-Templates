@@ -16,74 +16,73 @@
 
 <br/>
 
-Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
-Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
+# Bu bir DJANGO README şablonu 
 
 Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
 
-<br/>
-# Djnago Basic Setup Project
+
+# Django Temel Kurulum Projesi
 
 ![PyPI - License](https://img.shields.io/pypi/l/Django?color=success&label=License%20Info)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tamaraiselvan/Base-django-project-Setup?label=Source%20code%20Size)
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Features](#Features)
-* [Setup](#setup)
+## İçindekiler
+* [Genel Bilgiler](#genel-bilgiler)
+* [Teknolojiler](#teknolojiler)
+* [özellikleri](#özellikleri)
+* [Kururlrum](#kururlrum)
 
-## General info
-This Repository have the basic setup of a Django Project. Since setting and configuring a basic setup of a project by using Django is difficult. You can clone this repository for your project and you can use it for your projects.
+## Genel Bilgiler
+Bu depo, bir Django Projesinin temel kurulumuna sahiptir. Django kullanarak bir projenin temel kurulumunu ayarlamak ve yapılandırmak zor olduğundan. Bu depoyu projeniz için klonlayabilir ve projeleriniz için kullanabilirsiniz.
 
 
-## Technologies
-Project is created with:
+## Teknolojiler
+Proje bu teknolojiler ile oluşturulur:
 * Bootstrap 4
 * Python 3.10
 * Jazzmin 2.5
 * Django 4.0
 
-### Features
-1> Authentication, Authorization <br>
-2> Overwritten Django admin module <br>
-3> Login and Sign up<br>
-4> A basic page and basic Navigation system.<br>
-5> A good and Mobile friendly User Interface.<br>
+### Özellikleri
+1 Kimlik doğrulama, yetkilendirme <br>
+2 Üzerine yazılan Django yönetici modülü <br>
+3 Giriş yapın ve kaydolun <br>
+4 Temel bir sayfa ve temel navigasyon sistemi. <br>
+5 İyi ve mobil dostu bir kullanıcı arayüzü. <br>
 
-## Setup
+## Kururlrum
 
-Follow these steps to make project run locally
+Projeyi yerel olarak çalıştırmak için bu adımları izleyin
 
-1. Clone the repository
+1. Depoyu klonla
    ```sh
    git clone https://github.com/tamaraiselvan/Base-django-project-Setup
    ```
-2. Create a virtual environment
+2. Sanal bir ortam oluşturun
    ```sh
    python -m venv virtualenviron_name
    ```
-3. Activate the environment
+3. Ortamı etkinleştir
    ```sh
    virtualenviron_name\Scripts\activate
    ```
-4. Install Requirements from the Requirements.txt file
+4. Requirements.txt dosyasından Requirements yükleyin
    ```sh
    pip install -r requirements.txt
    ```
-5. Once you installed the requirements migrate the datebase
+5. Gereksinimleri yükledikten sonra veritabanını taşıyın
    ```sh
    python manage.py migrate
    ```
-6. Once after migrating, Create a superuser account
+6. Taşıma işleminden sonra bir süper kullanıcı hesabı oluşturun
    ```sh
    python manage.py createsuperuser
    ```
-7. Run the server locally on your system
+7. Sunucuyu sisteminizde yerel olarak çalıştırın
    ```sh
    python manage.py runserver
    ```
-8. Open your browser and type
+8. Tarayıcınızı açın ve yazın
    ```sh
    http://127.0.0.1:8000/
    ```
