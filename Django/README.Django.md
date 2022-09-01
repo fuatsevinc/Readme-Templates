@@ -26,6 +26,9 @@ Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyi
 ![PyPI - License](https://img.shields.io/pypi/l/Django?color=success&label=License%20Info)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tamaraiselvan/Base-django-project-Setup?label=Source%20code%20Size)
 
+
+
+
 ## İçindekiler
 * [Genel Bilgiler](#genel-bilgiler)
 * [Teknolojiler](#teknolojiler)
@@ -102,3 +105,6 @@ Projeyi yerel olarak çalıştırmak için bu adımları izleyin
 </p>
 
 </div>
+
+ ```
+
