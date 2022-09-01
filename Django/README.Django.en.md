@@ -16,74 +16,74 @@
   <span>This is a DJANGO README template repository</span>
 </div>
 <!-- Please update value in the {}  -->
+# Djnago Basic Setup Project
 
-<h1 align="center">ToDo App</h1>
+![PyPI - License](https://img.shields.io/pypi/l/Django?color=success&label=License%20Info)
+![GitHub repo size](https://img.shields.io/github/repo-size/tamaraiselvan/Base-django-project-Setup?label=Source%20code%20Size)
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Features](#Features)
+* [Setup](#setup)
+
+## General info
+This Repository have the basic setup of a Django Project. Since setting and configuring a basic setup of a project by using Django is difficult. You can clone this repository for your project and you can use it for your projects.
 
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
-    </a>
+## Technologies
+Project is created with:
+* Bootstrap 4
+* Python 3.10
+* Jazzmin 2.5
+* Django 4.0
+
+### Features
+1> Authentication, Authorization <br>
+2> Overwritten Django admin module <br>
+3> Login and Sign up<br>
+4> A basic page and basic Navigation system.<br>
+5> A good and Mobile friendly User Interface.<br>
+
+## Setup
+
+Follow these steps to make project run locally
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/tamaraiselvan/Base-django-project-Setup
+   ```
+2. Create a virtual environment
+   ```sh
+   python -m venv virtualenviron_name
+   ```
+3. Activate the environment
+   ```sh
+   virtualenviron_name\Scripts\activate
+   ```
+4. Install Requirements from the Requirements.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Once you installed the requirements migrate the datebase
+   ```sh
+   python manage.py migrate
+   ```
+6. Once after migrating, Create a superuser account
+   ```sh
+   python manage.py createsuperuser
+   ```
+7. Run the server locally on your system
+   ```sh
+   python manage.py runserver
+   ```
+8. Open your browser and type
+   ```sh
+   http://127.0.0.1:8000/
+   ```
+<br/>
+<div align='center'>
  
-  </h3>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [How To Use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-![screenshot](to-do.gif)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- HTML
-- CSS
-- JS
-- Django
-
-## How To Use
-
-<!-- This is an example, please update according to your application -->
-
-To clone and run this application, you'll need [Git](https://git-scm.com) 
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-    $ python3 -m venv env
-    > env/Scripts/activate (for win OS)
-    $ source env/bin/activate (for macOs/linux OS)
-    $ pip3 install -r requirements.txt
-# Edit .backend.env to .env
-# Add SECRET_KEY in .env file
-
-# Run the app
-    $ python manage.py runserver
-```
-
-## Acknowledgements
-- Information for your projects
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
@@ -91,15 +91,9 @@ $ git clone https://github.com/your-user-name/your-project-name
   <a href="https://app.netlify.com/teams/fuatsevinc/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://twitter.com/FuatSevinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fuatsevinc66/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://dashboard.heroku.com/pipelines/f9266513-11f3-4f2f-8cb2-bc0e5524a448" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://vercel.com/fuatsevinc/react-language-cards/3AphSL7k8qN2rm4oAUpnY3xXVuU5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://giphy.com/channel/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/giphy.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/profile/26360624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://www.figma.com/files/recent?fuid=1043526402029891500
-</p>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-
-
+</p>
 <p align="left">
 - This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a>
 </p>
 
+</div>
