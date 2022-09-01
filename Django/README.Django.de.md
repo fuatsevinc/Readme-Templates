@@ -11,100 +11,73 @@
 </div>
 <br/>
 
-<div align="center">
- 
-  <br/>
-  <span>Bu bir README şablon deposu</span>
-</div>
+# Djnago Basic Setup Project
 
---- 
+![PyPI - License](https://img.shields.io/pypi/l/Django?color=success&label=License%20Info)
+![GitHub repo size](https://img.shields.io/github/repo-size/tamaraiselvan/Base-django-project-Setup?label=Source%20code%20Size)
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Features](#Features)
+* [Setup](#setup)
+
+## General info
+This Repository have the basic setup of a Django Project. Since setting and configuring a basic setup of a project by using Django is difficult. You can clone this repository for your project and you can use it for your projects.
+
+
+## Technologies
+Project is created with:
+* Bootstrap 4
+* Python 3.10
+* Jazzmin 2.5
+* Django 4.0
+
+### Features
+1> Authentication, Authorization <br>
+2> Overwritten Django admin module <br>
+3> Login and Sign up<br>
+4> A basic page and basic Navigation system.<br>
+5> A good and Mobile friendly User Interface.<br>
+
+## Setup
+
+Follow these steps to make project run locally
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/tamaraiselvan/Base-django-project-Setup
+   ```
+2. Create a virtual environment
+   ```sh
+   python -m venv virtualenviron_name
+   ```
+3. Activate the environment
+   ```sh
+   virtualenviron_name\Scripts\activate
+   ```
+4. Install Requirements from the Requirements.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Once you installed the requirements migrate the datebase
+   ```sh
+   python manage.py migrate
+   ```
+6. Once after migrating, Create a superuser account
+   ```sh
+   python manage.py createsuperuser
+   ```
+7. Run the server locally on your system
+   ```sh
+   python manage.py runserver
+   ```
+8. Open your browser and type
+   ```sh
+   http://127.0.0.1:8000/
+   ```
 <br/>
 
-Evet, az önce okuduğunuz şey bu: "bir README şablonu deposu".
-Bunda, tüm projemin readme'larının bir padronizasyonunu tutacağım.
-
-Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
-
-<br/>
-
-**Burada aşağıdaki şablonları bulacaksınız:**
-
-- [x] [In construction](./construction) - Henüz hiçbir şeye sahip olmayan depolar için <br/>
-
-- [x] [Django Projesi](./construction) - Django Projeleri icin <br/>
-
-- [x] [React Projesi](./all-in-one) - React projeleri icin <br/>
-
-- [ ] [Bootsrap Projesi](./mobile) - Bootsrap Projeleri icin <br/>
-
-- [ ] [Servisler](./server) - For APIs and stuff<br/>
-
-
-
-<br/>
-
-Okay.. But *"why a multi-languaged readme"*?, you may ask.
-
-Well.. if you're still here, let me tell ya a story:
-
-<br/>
-
-## :thinking: Should I make my READMEs in Portuguese or English?
-<br/>
-
-Even in the beggining of my journey doing READMEs, I was uncomfortable with this question. 
-Well.. I live in Brazil and, even though some of us can comunicate in English very easilly, there is a huge percentage of us that can't.
-
-Still, when making this question above, i've always got the **same answer**, almost instantly: 
-
-> *"YOU SHOULD ALWAYS WRITE READMEs IN ENGLISH, SO EVERYONE WILL UNDERSTAND".*
->
-> -- Comunity
-
-
-As you can see, I wasn't convinced.
-
-So, the only way was to do.. both.
-
-<br/>
-
-## :v: My answer is: Do both
-<br/>
-
-Considering github does not have any functionallity known by me (until this moment) as a "multi language support" or anything like that, I decided to use in this repo a known workaround that links another README file with the desired language.
-
-If you notice, there is a "button" on the left-top of this file, like this:
-  
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
-
-```
-# you can do that this way:
-
-[![en-badge](./.github/lg-button-pt.png)](./README.pt.md)
-
-# or using an img tag in HTML
-
-<a href="./README.pt.md">
-  <img src="./.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
-</a>
-```
-
-I've put this on every README file, which leads you to a "README.\< abreviation-of-choosen-language \>.md" (in this case, brasilian portuguese)
-
-Simple as that.
-
-<br/>
-
-## :handshake: Katkılar
-readme
-<br/>
-
-Bu depoyu beğendiyseniz ve katkıda bulunmak istiyorsanız, sadece bir çekme isteği açın, memnuniyetle inceleyeceğim   
-
-Ve herhangi bir öneriniz varsa, bana bildirin :)
-
-<br/>
 <div align='center'>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
