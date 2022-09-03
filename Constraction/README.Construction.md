@@ -12,8 +12,8 @@
 <br/>
 
 
-
-# Project-001 :Survey Form (HC-01)
+```sh
+# Project Name
 
 ## Description
 Project aims to create survey form within html and css.
@@ -112,7 +112,7 @@ Functionally create a Survey Form as in the image above
 
 <center> &#8987; Happy Coding  &#9997; </center>
 
-
+```
 
 <br/>
 <div align='center'>
