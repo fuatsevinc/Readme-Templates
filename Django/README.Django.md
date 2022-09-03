@@ -16,6 +16,8 @@
 
 <br/>
 
+```sh
+
 # Bu bir DJANGO README şablonu 
 
 Bunları kopyalamaktan ve kendi amaçlarınız için değiştirmekten çekinmeyin
@@ -58,38 +60,41 @@ Proje bu teknolojiler ile oluşturulur:
 Projeyi yerel olarak çalıştırmak için bu adımları izleyin
 
 1. Depoyu klonla
-   ```sh
+   #```sh
    git clone https://github.com/tamaraiselvan/Base-django-project-Setup
-   ```
+   #```
 2. Sanal bir ortam oluşturun
-   ```sh
+   #```sh
    python -m venv virtualenviron_name
-   ```
+   #```
 3. Ortamı etkinleştir
-   ```sh
+   #```sh
    virtualenviron_name\Scripts\activate
-   ```
+   #```
 4. Requirements.txt dosyasından Requirements yükleyin
-   ```sh
+   #```sh
    pip install -r requirements.txt
-   ```
+   #```
 5. Gereksinimleri yükledikten sonra veritabanını taşıyın
-   ```sh
+   #```sh
    python manage.py migrate
-   ```
+   #```
 6. Taşıma işleminden sonra bir süper kullanıcı hesabı oluşturun
-   ```sh
+   #```sh
    python manage.py createsuperuser
-   ```
+   #```
 7. Sunucuyu sisteminizde yerel olarak çalıştırın
-   ```sh
+   #```sh
    python manage.py runserver
-   ```
+   #```
 8. Tarayıcınızı açın ve yazın
-   ```sh
+   #```sh
    http://127.0.0.1:8000/
-   ```
-<br/>
+   #```
+
+
+```
+
 <div align='center'>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
