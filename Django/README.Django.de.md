@@ -11,6 +11,8 @@
 </div>
 <br/>
 
+```sh
+
 # Djnago Basic Setup Project
 
 ![PyPI - License](https://img.shields.io/pypi/l/Django?color=success&label=License%20Info)
@@ -45,37 +47,41 @@ Project is created with:
 Follow these steps to make project run locally
 
 1. Clone the repository
-   ```sh
+   #```sh
    git clone https://github.com/tamaraiselvan/Base-django-project-Setup
-   ```
+   #```
 2. Create a virtual environment
-   ```sh
+   #```sh
    python -m venv virtualenviron_name
-   ```
+   #```
 3. Activate the environment
-   ```sh
+   #```sh
    virtualenviron_name\Scripts\activate
-   ```
+   #```
 4. Install Requirements from the Requirements.txt file
-   ```sh
+   #```sh
    pip install -r requirements.txt
-   ```
+   #```
 5. Once you installed the requirements migrate the datebase
-   ```sh
+   #```sh
    python manage.py migrate
-   ```
+   #```
 6. Once after migrating, Create a superuser account
-   ```sh
+   #```sh
    python manage.py createsuperuser
-   ```
+   #```
 7. Run the server locally on your system
-   ```sh
+   #```sh
    python manage.py runserver
-   ```
+   #```
 8. Open your browser and type
-   ```sh
+   #```sh
    http://127.0.0.1:8000/
-   ```
+   #```
+   
+   
+```
+
 <br/>
 
 <div align='center'>
