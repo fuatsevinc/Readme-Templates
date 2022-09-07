@@ -13,50 +13,102 @@
 
 
 ```sh
-# Project Name
+# SASS_Project
+
 
 ## Description
-Project aims to create survey form within html and css.
+Project aims to create SASS_Project within html and css.
+
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[SASS_Project](https://muharremgem.github.io/SASS_Project/)| Html Css Sass |![SASS_Project](img/sass.gif)
+
 
 ## Problem Statement
-
-- Your company has recently started on a project that aims to conduct a survey to measure the demands and interests of its customers. So you and your colleagues have started to work on the project.
+- My project to improve html,css and Sass tutorials
 
 ## Project Design
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
+- Figma 
 
 ## Project Skeleton 
 
-#```sh
-001-survey-form (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
-        |----index.html  
-        |----style.css   
-        |----result.html 
+
+SASS_Project (folder)
+
+
+|----img
+
+|----readme.md      
+
+|----index.html  
+
+|----about.html
+
+|----contact.html
+
+|----projects.html 
+
+|----css
+
+	|---main.css
+	|---main.css.map
+	
+	
+	
+|----scss
+
+	|---main.scss
+	|---abstracts
+	
+		|--_mixins.scss
+		|--_variables.scss
+		
+	|---base
+		|--_reset.scss
+		
+		
+	|---components
+		|--_footer.scss
+		|--_nav.scss
+		|--_responsive.scss
+		
+	|---pages
+       		|--_about.scss
+		|--_contacts.scss
+		|--_home.scss
+		|--_projects.scss
 #```
 
 ## Expected Outcome
 
-![Project 001 Snapshot] (./netflix-form.png)
-
 ## Objective
 
-Functionally create a Survey Form as in the image above
+Functionally create a SASS_Project as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Forms-Input Types 
+- HTML structure
 
-- HTML Form Elements
+- HTML İnput
 
 - CSS Colors-Border Properties
 
-- CSS Margins-Padding
+- CSS Margins-Padding-Grid-Flex
 
-- CSS Properties for Texts-Font Families-Links
+- CSS Properties for Texts-Font Sans-serif
+	
+- SCSS Partials method
+
+- SCSS @import method
+
+- SCSS @mixin method
+
+- SCSS @exend method
+
+- SCSS @include method
+
+- SCSS Variable method
 
 
 ### At the end of the project, students will be able to;
@@ -71,7 +123,7 @@ Functionally create a Survey Form as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Survey Form
+- Step 3: Create SASS_Project
 
 >>Part-1 HTML Structure
 
@@ -80,42 +132,47 @@ Functionally create a Survey Form as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="survey-form")
-	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:dont forget to use placeholder)
-	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
-	- Create a division (class="box") for checkbox list
-	- Create a division (class="box") for radio buttons
-	- Create a division (class="box") for a multi-line input field (Tips: a text area)
-	- Create a button for id="submit" the form
+	- Create a Scss (id="SASS_Project")
+	
 
 >>Part-2 CSS Structure
+	- CSS Display method
+	- CSS justify-content
+	- CSS Position method
+	- CSS Media Query method
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
-	- Define "survey-form" color-size-padding etc..
-	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+	- Define "SASS_Project" color-size-padding etc..
+	- Define labels color-size-padding etc... 
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
-	
+>>Part-3 Scss Structue
+	- SCSS Partials method
+	- SCSS @import method
+	- SCSS @mixin method
+	- SCSS @exend method
+	- SCSS @include method
+	- SCSS Variable method
+
 - Step 4: Push your application into your own public repo on Github
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
 
 ## Notes
 
-- You can use HTML,and CSS to complete this project.
+- You can use HTML, CSS and Sass to complete this project.
 
 ## Resources
 
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
 
-## Contact
-
-
 ```
+
+
+
 
 <br/>
 <div align='center'>
