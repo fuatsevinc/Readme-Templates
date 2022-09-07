@@ -1,5 +1,5 @@
 <div align="right" >
-  <a href=".README.Construction.md">
+  <a href="./README.Construction.md">
     <img src="../images/tr.png" alt="Türkce" width=30px" ></img>
   </a>
   <a href="./README.Construction.de.md">
