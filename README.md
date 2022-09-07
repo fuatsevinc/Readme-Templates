@@ -49,25 +49,25 @@ Pekala size bir hikaye anlatayım:
 ## :thinking: README'lerimi Türkce mi veya Almanca mi yoksa İngilizce mi yapmalıyım?
 <br/>
 <div>
-Suan Almanyada yasiyor ve Burada Calisiyorum. Gündelik hayatta Almanca kullaniyor Yakin dost ve cevremde Türkce konusyorum ve Yazilim gelistirirken Ingilizce ile gelistiriyorum. Kendisini yazilim alaninda gelistirmek isteyen ve Ingilizce bilmeyen dostlarim icin Türkce kaynagin olmasi gerektigini düsünüyorum. Is araken Burda Almanyada ingilizce bilmeyen is arkadaslarim icinde Almanca Readme hazirlamaninda hem bana hemde Alman dostlarima fayda saglayacagini düsünüyorum. 
-<br/>
+Suan Almanyada yasiyor ve Burada Calisiyorum. <br/>Gündelik hayatta Almanca kullaniyor Yakin dost ve cevremde Türkce konusyorum ve Yazilim gelistirirken Ingilizce ile gelistiriyorum. <br/>Kendisini yazilim alaninda gelistirmek isteyen ve Ingilizce bilmeyen dostlarim icin Türkce kaynagin olmasi gerektigini düsünüyorum. <br/>Is araken Burda Almanyada ingilizce bilmeyen is arkadaslarim icinde Almanca Readme hazirlamaninda hem bana hemde Alman dostlarima fayda saglayacagini düsünüyorum. 
+<br/><br/>
 Hertürlü yazilim projesinde Dökümantasyonun cok önemli olduguna inaniyorum.
-<br/>
+<br/><br/>
 Herzaman Her Projenin  Herkes tarfindan okunabilmesi ve gelistirilebilmesi gerektigine inaniyorum.
-<br/>
+<br/><br/>
 Bu sebeple bende bircok farkli kaynagi acik kaynak olarak  okuyorum, faydalaniyorum, kullaniyorum ve bundan cok mutlu oluyorum.
-<br/>
+<br/><br/>
 Readme lerinde hertürlü projenin aciklanmasi ve Baslangic (setup) ayarlarinin yapilabilmesi icin zorunlu oldugunu düsünüyorum.
-<br/>
+<br/><br/>
 Yazilima 36 yasinda baslayan biri olarak Github da bircok projesi inceliyor ve kendimi gelistirmeye cabaliyorum. 
-<br/>
+<br/><br/>
 Bu arastirma sürecinde bircok Github projesinin README dosyasinin ya olmadigi yada hedefinden cok uzak oldunu farkettim.
-<br/>
+<br/><br/>
  Bunun icin öncelikle kendi projelerimin sonrasinda da Yazilima yeni baslayanlar icin Hazir README sablonlari olusturmaya karar verdim. 
- <br/>
+ <br/><br/>
  GitHub da yaptigim arama sonuclarindan sonra kendime örnek alabilecegim standart bir REPO bulamadim. 
- <br/>
- Belkide vardir cok iyileri! 
+ <br/><br/>
+ Belkide vardir cok iyileri! <br/>
  Henüz Karsilasmadim.
 </div>
 
