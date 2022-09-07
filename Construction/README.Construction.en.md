@@ -2,7 +2,7 @@
   <a href="./README.Construction.md">
     <img src="../images/tr.png" alt="Türkce" width="30px" ></img>
   </a>
-  <a href="../README.Construction.de.md">
+  <a href="./README.Construction.de.md">
     <img src="../images/de.png" alt="Deutsch" width="30px" ></img>
   </a>
   <a href="./README.Construction.en.md">
