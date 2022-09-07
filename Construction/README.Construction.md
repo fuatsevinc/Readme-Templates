@@ -28,7 +28,7 @@ Project aims to create survey form within html and css.
 
 ## Project Skeleton 
 
-```
+#```sh
 001-survey-form (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)          
@@ -36,7 +36,7 @@ Project aims to create survey form within html and css.
         |----index.html  
         |----style.css   
         |----result.html 
-```
+#```
 
 ## Expected Outcome
 
