@@ -1,9 +1,9 @@
 <div align="right" >
   <a href=".README.Construction.md">
-    <img src="../images/tr.png" alt="Türkce" width="45px" ></img>
+    <img src="../images/tr.png" alt="Türkce" width=30px" ></img>
   </a>
   <a href="./README.Construction.de.md">
-    <img src="../images/de.png" alt="Deutsch" width="30px" ></img>
+    <img src="../images/de.png" alt="Deutsch" width="45px" ></img>
   </a>
   <a href="./README.Construction.en.md">
     <img src="../images/en.png" alt="English" width="30px" ></img>
