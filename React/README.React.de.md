@@ -11,6 +11,9 @@
 </div>
 <br/>
 
+
+```sh
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -82,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+ ```
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
